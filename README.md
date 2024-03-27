@@ -1,2 +1,2 @@
-eaglercraft assets for https://geometry-tryhard.vercel.app
+eaglercraft assets for https://algebra8.top
 
